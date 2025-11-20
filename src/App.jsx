@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Forgot_Password from './pages/Login/forgot_password_page/Forgot_Password';
 import Reset_Password from './pages/Login/reset_password_page/Reset_Password';
 import Home from './pages/EndUser/home/Home';
-import Layout from './components/Layout/Layout';
+import Layout from './components/layout/Layout';
 import Alerts from './pages/EndUser/alerts/Alerts';
 import Profile from './pages/EndUser/profile/Profile';
 import DashBoard from './pages/ZoneManagement/dashboard/DashBoard';
